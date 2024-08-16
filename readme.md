@@ -26,6 +26,18 @@ Cada disciplina possui um diretório próprio onde estarão disponíveis todos o
 
 Confira o calendário das disciplinas no arquivo anexo [Calendário Programador de Sistemas](https://github.com/KevinSGuimaraes/ProgramadorDeSistemas/blob/main/Calend%C3%A1rio%20Programador%20de%20Sistemas.pdf).
 
+# Repositorios Alunos
+
+![GitHub](Imagens/GitHubAlunos.png)
+
+# Lista de Presença
+
+![Lista de Presença](imagens/lista_presenca.png)
+
+# Notas Atividades
+
+<!--![Notas Atividade JS](imagens/NotasAtividade01JS.png)-->
+
 ## Como Usar este Repositório
 
 1. Navegue até a pasta da disciplina desejada.
