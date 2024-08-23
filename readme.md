@@ -32,7 +32,7 @@ Confira o calendário das disciplinas no arquivo anexo [Calendário Programador 
 ![Lista de Presença](imagens/lista_presenca.png)
 
 # Notas Atividades
-
+[Requisitos](Imagens/pontuacao.png)
 [Notas Prova 01](Imagens/Notas.png)
 
 ## Como Usar este Repositório
