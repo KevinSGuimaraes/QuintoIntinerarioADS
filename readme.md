@@ -26,17 +26,17 @@ Cada disciplina possui um diretório próprio onde estarão disponíveis todos o
 ## Calendário
 
 Confira o calendário das disciplinas no arquivo anexo 
-[Calendário Programador de Sistemas](Imagens/Calendario_V_Itinerario.pdf).
+[Calendário Irinerário de Formação Técnica e Profissional](Imagens/Calendario_V_Itinerario.pdf).
 
 ## Atividades
 
 # Lista de Presença
 
-![Lista de Presença](imagens/lista_presenca.png)
+![Lista de Presença](imagens/Chamada_IITrimestre)
+
+![Lista de Presença](imagens/Chamada_IIITrimestre)
 
 # Notas Atividades
-
-![Requisitos](Imagens/pontuacao.png)
 
 ![Notas Prova 01](Imagens/Notas.png)
 
