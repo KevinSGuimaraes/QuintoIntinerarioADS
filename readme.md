@@ -32,9 +32,9 @@ Confira o calendário das disciplinas no arquivo anexo
 
 # Lista de Presença
 
-![Lista de Presença](imagens/Chamada_IITrimestre.png)
+![Lista de Presença II Trimestre](Imagens/Chamada_IITrimestre.png)
 
-![Lista de Presença](imagens/Chamada_IIITrimestre.png)
+![Lista de Presença III Trimestre](Imagens/Chamada_IIITrimestre.png)
 
 # Notas Atividades
 
