@@ -14,18 +14,21 @@ Cada disciplina possui um diretório próprio onde estarão disponíveis todos o
 /Quinto Intinerário ADS
 │
 ├── ADS
-│ ├── aulas
-│ ├── exemplos
-│ ├── exercicios
-│ └── provas
+│ ├Disciplina 
+│ 	├── aulas
+│ 	├── exemplos
+│ 	├── exercicios
+│ 	└── provas
 │
 
 ```
 
 ## Calendário
 
-Confira o calendário das disciplinas no arquivo anexo [Calendário Programador de Sistemas](https://github.com/KevinSGuimaraes/ProgramadorDeSistemas/blob/main/Calend%C3%A1rio%20Programador%20de%20Sistemas.pdf).
+Confira o calendário das disciplinas no arquivo anexo 
+[Calendário Programador de Sistemas](Imagens/Calendario_V_Itinerario.pdf).
 
+## Atividades
 
 # Lista de Presença
 
