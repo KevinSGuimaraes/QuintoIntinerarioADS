@@ -38,7 +38,7 @@ Confira o calendário das disciplinas no arquivo anexo
 
 # Notas Atividades
 
-![Notas Prova 01](Imagens/Notas.png)
+![Notas](Imagens/Notas.png)
 
 ## Como Usar este Repositório
 
