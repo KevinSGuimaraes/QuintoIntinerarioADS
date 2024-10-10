@@ -23,6 +23,10 @@ Cada disciplina possui um diretório próprio onde estarão disponíveis todos o
 
 ```
 
+## Responda o Questionário da Disciplina
+
+https://forms.gle/HDAhZyEnEnZzaXX98
+
 ## Calendário
 
 Confira o calendário das disciplinas no arquivo anexo 
