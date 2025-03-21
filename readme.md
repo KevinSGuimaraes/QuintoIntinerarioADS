@@ -4,7 +4,24 @@ Bem-vindo ao repositório do Quinto Intinerário ADS oferecido pelo SENAI! Este 
 
 ## Disciplinas
 
-- **ADS**
+
+### Segundo Ano  
+- **Fundamentos de Banco de Dados**  
+- **Fundamentos de Eletrônica Aplicada (EAD)**  
+- **Fundamentos de Redes de Computadores**  
+- **Fundamentos de Tecnologia da Informação**  
+- **Lógica Computacional**  
+- **Lógica de Programação**  
+- **Projeto de Vida e Carreira (EAD)**  
+
+### Terceiro Ano  
+- **Banco de Dados (EAD)**  
+- **Desenvolvimento de Sistemas**  
+- **Implantação de Sistemas**  
+- **Internet das Coisas**  
+- **Manutenção de Sistemas (EAD)**  
+- **Programação de Aplicativos**  
+- **Teste de Sistemas**  
 
 ## Estrutura dos Diretórios
 
