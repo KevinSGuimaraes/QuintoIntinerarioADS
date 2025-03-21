@@ -13,7 +13,7 @@ Cada disciplina possui um diretório próprio onde estarão disponíveis todos o
 ```
 /Quinto Intinerário ADS
 │
-├── ADS
+├── Ano
 │ ├Disciplina 
 │ 	├── aulas
 │ 	├── exemplos
@@ -53,6 +53,6 @@ Confira o calendário das disciplinas no arquivo anexo
 
 ## Contato
 
-Para dúvidas ou mais informações, entre em contato com o instrutor:
-- **Nome do Instrutor**: Kevin Guimarães
-- **Email**: kevinguimaraes.trabalho@gmail.com
+Para dúvidas ou mais informações, entre em contato com o professor:
+- **Nome do Professor**: Kevin de Souza Guimarães
+- **Email**: kevin.guimaraes3561@sesisenaipr.org.br
