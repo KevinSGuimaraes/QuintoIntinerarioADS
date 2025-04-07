@@ -41,9 +41,9 @@ Cada disciplina possui um diretório próprio onde estarão disponíveis todos o
 ```
 
 ## Responda o Questionário da Disciplina
-
+<!--
 https://forms.gle/HDAhZyEnEnZzaXX98
-
+-->
 ## Calendário
 
 Confira o calendário das disciplinas no arquivo anexo 
@@ -53,15 +53,17 @@ Confira o calendário das disciplinas no arquivo anexo
 
 # Lista de Presença
 
-![Lista de Presença II Trimestre](Imagens/Chamada_IITrimestre.png)
+<!-- ![Lista de Presença II Trimestre](Imagens/Chamada_IITrimestre.png)-->
 
-![Lista de Presença III Trimestre](Imagens/Chamada_IIITrimestre.png)
+<!-- [Lista de Presença III Trimestre](Imagens/Chamada_IIITrimestre.png)-->
 
 # Notas Atividades
 
 ![Notas](Imagens/Notas.png)
+<!--
+![Notas](Imagens/Notas.png)
 ![Notas2](Imagens/Notas01.png)
-![Notas3](Imagens/MediaFinal.png)
+![Notas3](Imagens/MediaFinal.png)-->
 
 ## Como Usar este Repositório
 
